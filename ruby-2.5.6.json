@@ -1,18 +1,18 @@
 {
     "homepage": "https://rubyinstaller.org",
     "description": "A dynamic programming language with a focus on simplicity and productivity.",
-    "version": "2.6.5-1",
+    "version": "2.5.6-1",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.5-1/rubyinstaller-2.6.5-1-x64.7z",
-            "hash": "9b1866e59fe1e7336c4e3231823ff24e121878ed1bac8194ad3fe5e9f2f9ef69",
-            "extract_dir": "rubyinstaller-2.6.5-1-x64"
+            "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.5.6-1/rubyinstaller-2.5.6-1-x64.7z",
+            "hash": "1182dc45b96632e81b4ed0e300066c17d7bf422670dc2a29d3c3f4327e2c1188",
+            "extract_dir": "rubyinstaller-2.5.6-1-x64"
         },
         "32bit": {
-            "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.5-1/rubyinstaller-2.6.5-1-x86.7z",
-            "hash": "28db577adbaf2e75d14c44569eccfd7cf73846e6286a67cbb262aba236151cfc",
-            "extract_dir": "rubyinstaller-2.6.5-1-x86"
+            "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.5.6-1/rubyinstaller-2.5.6-1-x86.7z",
+            "hash": "97198edee094466052e0265b5d81b963908c2d4ee46490e96626bbcf42c52994",
+            "extract_dir": "rubyinstaller-2.5.6-1-x86"
         }
     },
     "persist": "gems",
